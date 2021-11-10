@@ -1,0 +1,13 @@
+<svg width="1600" height="105" xmlns="http://www.w3.org/2000/svg" fill="none">
+ <defs>
+  <clipPath id="clip0">
+   <rect id="svg_1" fill="white" height="600" width="1600"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="svg_2" clip-path="url(#clip0)">
+   <path stroke="null" id="svg_3" fill="#2196F3" d="m1604.66674,10.37006c-314.88751,0 -415.02377,86.14099 -821.13754,85.96338c-405.00002,0 -506.25002,-85.96338 -798.86254,-85.96338l0,-54.70377l1620.00008,0c0,0 0,34.10105 0,54.70377z" clip-rule="evenodd" fill-rule="evenodd"/>
+  </g>
+ </g>
+</svg>
