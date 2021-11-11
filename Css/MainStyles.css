@@ -714,12 +714,12 @@ textarea{
 }
 .menu li{
     list-style: none;
-    margin: 8px;
+    margin: 10px;
     text-align: center;
 }
 .nav{
-    width: 95%;
-    justify-content: space-evenly;
+    width: 100%;
+    justify-content: space-around;
 }
 .contenedor-redes{
     width: 50%;
